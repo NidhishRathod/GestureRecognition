@@ -28,7 +28,7 @@ Install the required dependencies:
 1. Open the terminal and run the main script:
 
     ```
-    python main.py
+    python Drawing.py
     ```
 
 2. The webcam feed will open up, and you can interact with the virtual canvas using hand gestures.
