@@ -19,9 +19,7 @@ This project implements a real-time hand gesture drawing application using OpenC
 
 Install the required dependencies:
 
-    ```
     pip install opencv-python mediapipe numpy
-    ```
 
 ## How to Use
 
